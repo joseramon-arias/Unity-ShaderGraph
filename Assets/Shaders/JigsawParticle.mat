@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: JigsawParticle
-  m_Shader: {fileID: -6465566751694194690, guid: 97447841c3d3343418f29a4a8f721c80, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: a58b81e3eae1870459d30b39c4df943b, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
